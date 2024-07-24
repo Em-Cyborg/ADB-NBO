@@ -1,5 +1,6 @@
 all: add-nbo
 
+# main.c 컴파일
 add-nbo: main.c
 	gcc -o main main.c
 
