@@ -1,4 +1,4 @@
-all: main
+all: add-nbo files
 
 add-nbo: main.c
 	gcc -o main main.c
