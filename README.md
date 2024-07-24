@@ -11,4 +11,4 @@ make
 ./main thousand.bin five-hundred.bin
 ```
 
-![image](https://github.com/user-attachments/assets/7882f50d-4c12-48eb-9463-0d9fe197e2a0)
+![image](https://github.com/user-attachments/assets/ae1863f2-2355-41de-b243-7c6eda381799)
